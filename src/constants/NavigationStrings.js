@@ -2,6 +2,7 @@
 export default {
     // MAIN SCREEN
     BOARD_SCREEN: "BOARD_SCREEN",
+    GAME_SCREEN: "GAME_SCREEN",
 
     // AUTH SCREEN 
     SPALSH_SCREEN: "SPALSH_SCREEN",

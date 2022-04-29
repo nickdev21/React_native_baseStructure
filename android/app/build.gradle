@@ -22,7 +22,7 @@ import org.apache.tools.ant.taskdefs.condition.Os
  *   entryFile: "index.android.js",
  *
  *   // https://reactnative.dev/docs/performance#enable-the-ram-format
- *   bundleCommand: "ram-bundle",
+ *   bundleCommand: "ram-bundle", 
  *
  *   // whether to bundle JS and assets in debug mode
  *   bundleInDebug: false,
